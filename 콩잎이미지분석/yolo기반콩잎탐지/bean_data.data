@@ -1,0 +1,5 @@
+classes = 1
+train = /content/gdrive/My\ Drive/darknet/bean/train.txt
+valid = /content/gdrive/My\ Drive/darknet/bean/test.txt
+names = /content/gdrive/My\ Drive/darknet/bean/classes.names
+backup = backup
